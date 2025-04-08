@@ -1,0 +1,1 @@
+This Python project provides a console-based banking system. It allows users to create accounts, check balance, deposit funds,withdraw funds, and view account statements. The project uses a MySQL database for persistent storage and integrates withthe Twilio API for OTP verification and SMS notifications.
